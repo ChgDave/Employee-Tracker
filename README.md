@@ -98,7 +98,7 @@ https://github.com/ChgDave/Employee-Tracker
 
 ## Video Link
 
-https://drive.google.com/file/d/1tQa-Dh-qDadDwmepmUOflC94DWpC_G6N/view
+https://drive.google.com/file/d/1jw5hV5h04CWkggLXyZVgx_29VEPrOzqg/view
 
 ## Questions
 
