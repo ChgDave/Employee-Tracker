@@ -94,7 +94,7 @@ This project is licensed under MIT License
 
 ## Github Repo
 
-https://github.com/ChgDave/svg-logo-maker
+https://github.com/ChgDave/Employee-Tracker
 
 ## Video Link
 
